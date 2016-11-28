@@ -23,5 +23,5 @@ Risk-Management/
 ├── data/
 ├── lectures/
 ├── homework/
-└── output/
+└── project/
 ```
