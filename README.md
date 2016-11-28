@@ -16,7 +16,7 @@ Course materials consist of the lectures, lecture notes and online reference mat
 Much of the quantitative material in this course also appears in one or more of the following **textbooks**:
 
 ** Quantitative Risk Management ** (Coleman [Col12], but part 1 appears to be available in Coleman [Col11]).
-   + Global Risk Management: A Quantitative Guide  [Che13]
+    + Global Risk Management: A Quantitative Guide  [Che13]
     +  Quantitative Risk Management: Concepts, Techniques and Tools [MFE15].
 
 ```
