@@ -8,7 +8,7 @@ Much of the homework will be computational, requiring programming. Some of the h
 
 + Project
 
-The project for this course is to develop a risk calculation system. The system should be able to compute Monte Carlo VaR on a portfolio of stocks and simple options. This will require substantial programming as well as extensive writing  and documentation. It is expected the programming will be completed in Python, matlab, octave, R or C++.
+The project for this course is to develop a risk calculation system. The system should be able to compute Monte Carlo VaR on a portfolio of stocks and simple options. This will require substantial programming as well as extensive writing  and documentation. It is expected the programming will be completed in **Python**, matlab, octave, R or C++.
 
 + Textbooks and Resources
 
